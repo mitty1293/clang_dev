@@ -9,7 +9,7 @@ docker-compose up -d
 ```
 
 ## Sample
-`/home/work` にサンプルプログラムを格納済です。
+コンテナ内の `/home/work` にサンプルプログラムを格納済です。
 ```bash
 gcc sample.c
 ./a.out
