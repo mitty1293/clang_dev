@@ -6,3 +6,4 @@ services:
         build: .
         volumes: 
             - ./work:/home/work
+        tty: true
